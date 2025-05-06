@@ -1,8 +1,7 @@
 ## Hi there 👋
-## 👋 Hello! I'm [Your Name]
+## 👋 Hello! I'm [Srushti Joshi R]
 
 🎓 I'm a student at **Malnad College of Engineering**, pursuing a Bachelor's degree in **Information Science and Engineering**.
-
 💡 I'm currently diving into **Web Development**, while strengthening my skills in **Java** and **SQL**.
 
 ---
