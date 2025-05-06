@@ -2,15 +2,19 @@
 
 <!--
 **Srushti-joshi/Srushti-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Malnad College of Engineering, pursuing a Bachelor's degree in Information Science and Engineering.
 
-Here are some ideas to get you started:
+I'm currently learning Web Development, along with Java and SQL.
+💻 Excited to build and grow my skills across the full stack!
+Languages & Technologies
+Java HTML5 CSS3 JavaScript SQL Git GitHub VSCode MySQL IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My Interests
+Java Development
+Web Development
+Problem Solving
+Exploring New Technologies
+Get in Touch
+LinkedIn
+Email
 -->
