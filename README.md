@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Srushti-joshi/Srushti-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a student at Malnad College of Engineering, pursuing a Bachelor's degree in Information Science and Engineering.
 
 I'm currently learning Web Development, along with Java and SQL.
@@ -17,4 +14,8 @@ Exploring New Technologies
 Get in Touch
 LinkedIn
 Email
+
+<!--
+**Srushti-joshi/Srushti-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
